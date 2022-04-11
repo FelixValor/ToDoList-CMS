@@ -1,0 +1,14 @@
+C:\Users\Felix\Desktop\DAM2\AD\to-do-list\src\main\java\todolist\app\entity\Usuario.java
+C:\Users\Felix\Desktop\DAM2\AD\to-do-list\src\main\java\todolist\app\repository\UserRepository.java
+C:\Users\Felix\Desktop\DAM2\AD\to-do-list\src\main\java\todolist\app\entity\Task.java
+C:\Users\Felix\Desktop\DAM2\AD\to-do-list\src\main\java\todolist\app\daomodel\TaskDAO.java
+C:\Users\Felix\Desktop\DAM2\AD\to-do-list\src\main\java\todolist\app\security\UserDetailsServiceImpl.java
+C:\Users\Felix\Desktop\DAM2\AD\to-do-list\src\main\java\todolist\app\controller\ApiRestController.java
+C:\Users\Felix\Desktop\DAM2\AD\to-do-list\src\main\java\todolist\app\repository\TaskRepository.java
+C:\Users\Felix\Desktop\DAM2\AD\to-do-list\src\main\java\todolist\app\controller\CMSController.java
+C:\Users\Felix\Desktop\DAM2\AD\to-do-list\src\main\java\todolist\app\interfaces\TaskInterface.java
+C:\Users\Felix\Desktop\DAM2\AD\to-do-list\src\main\java\todolist\app\service\TaskService.java
+C:\Users\Felix\Desktop\DAM2\AD\to-do-list\src\main\java\todolist\app\service\UserService.java
+C:\Users\Felix\Desktop\DAM2\AD\to-do-list\src\main\java\todolist\app\service\UserServiceImpl.java
+C:\Users\Felix\Desktop\DAM2\AD\to-do-list\src\main\java\todolist\app\Application.java
+C:\Users\Felix\Desktop\DAM2\AD\to-do-list\src\main\java\todolist\app\security\SecurityConfig.java

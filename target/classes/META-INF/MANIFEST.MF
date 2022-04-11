@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Felix
+Build-Jdk: 16.0.2
+Implementation-Title: springboot-thymeleaf-crud-tutorial
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: to-do-list.cms
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/to-do-list
+Created-By: Maven Integration for Eclipse
+
